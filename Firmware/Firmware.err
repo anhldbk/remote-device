@@ -1,0 +1,9 @@
+>>> Warning 203 "C:\Program Files\PICC\drivers\pic18_usb.h" Line 436(1,1): Condition always TRUE
+>>> Warning 207 "Firmware.c" Line 90(1,1): Code has no effect
+>>> Warning 203 "Firmware.c" Line 146(1,1): Condition always TRUE
+>>> Warning 216 "Firmware.c" Line 222(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_token_reset)
+>>> Warning 216 "Firmware.c" Line 222(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_in)
+>>> Warning 216 "Firmware.c" Line 222(0,1): Interrupts disabled during call to prevent re-entrancy:  (usb_flush_out)
+>>> Warning 202 "C:\Documents and Settings\AnhLD\Desktop\Usb proj\Official\Firmware.h" Line 91(7,16): Variable never used:   HashValue
+      Memory usage:   ROM=14%      RAM=31% - 33%
+      0 Errors,  7 Warnings.

@@ -1,0 +1,9 @@
+[PROJECT]
+Processor=0x4550
+Processor_Text=PIC18F4550
+[Target Data]
+OptionString=-p +FH
+FileList=C:\Documents and Settings\AnhLD\Desktop\Usb proj\Official\Firmware.c
+[Units]
+Count=1
+1=Firmware.c (main)
